@@ -1,0 +1,1 @@
+nasm -f bin lock.asm -o lock.bin
